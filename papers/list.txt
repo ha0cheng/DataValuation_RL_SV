@@ -1,1 +1,11 @@
-data shapley
+What is your data worth? Equitable Valuation of Data    ICML2019
+A Distributional Framework for Data Valuation   ICML2020
+Neuron Shapley: Discovering the Responsible Neurons   Nurips2020
+L-shapley and C-shapley: Efficient Model Interpretation for Structured Data  ICLR2018
+Data Valuation using Reinforcement Learning ICML2020
+Towards Efficient Data Valuation Based on Shapley Value   AISTATS2019
+Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms  VLDB2019
+Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability  Nurips2020
+A Minimax Game for Instanced based Selective Transfer Learning   KDD 2019
+The Explanation Game: Explaining Machine Learning Models Using Shapley Values  ARXIV2020
+
