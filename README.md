@@ -4,11 +4,11 @@ A list of awesome papers and resources on data valuation.
 
 ## Table of Contents
 
-- [Tutorial and Blogs](##tutorial-and-blogs)
-- [Papers](##papers)
-- [Datasets](##datasets)
-- [Codes](##codes)
-- [Results](##results)
+- [Tutorial and Blogs](#tutorial-and-blogs)
+- [Papers](#papers)
+- [Datasets](#datasets)
+- [Codes](#codes)
+- [Results](#results)
 
 ## Tutorial and Blogs
 
